@@ -1,0 +1,1 @@
+enemy.d_counters -=1;

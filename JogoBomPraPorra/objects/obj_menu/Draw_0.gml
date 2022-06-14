@@ -1,0 +1,1 @@
+draw_sprite(spr_menubotton,-1,mouse_x,mouse_y)
